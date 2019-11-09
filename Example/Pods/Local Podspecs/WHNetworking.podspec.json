@@ -1,0 +1,27 @@
+{
+  "name": "WHNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of WHNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vivi2540",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vivi2540": "hewenhu264@126.com"
+  },
+  "source": {
+    "git": "https://github.com/vivi2540/WHNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WHNetworking/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
