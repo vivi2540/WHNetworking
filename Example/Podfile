@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WHNetworking_Example' do
+  pod 'WHNetworking', :path => '../'
+
+  target 'WHNetworking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
